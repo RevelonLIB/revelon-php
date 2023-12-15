@@ -1,10 +1,9 @@
-Certainly! Below is a comprehensive `README.md` template for your `revelon-php` repository. This includes details about the library, installation instructions, usage examples, and contribution guidelines. Please replace placeholders with your actual information:
 
 ```markdown
 # Revelon Library for Crypto Wallet and Payment Gateway
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![PHP](https://img.shields.io/badge/php-%3E%3D5.5.0-blue.svg)](https://php.net)
+[![PHP](https://www.php.net//images/logos/new-php-logo.svg)](https://php.net)
 
 ## Overview
 
