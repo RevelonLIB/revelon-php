@@ -1,0 +1,31 @@
+{
+    "name": "revelonnet/revelon-php",
+    "description": "Revelon Library for integrating with Revelon API and simplifying Crypto Transactions in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Revelon",
+            "email": "developers@revelon.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "files": ["src/Revelon.php"]
+    },
+    "keywords": [
+        "revelon",
+        "revelon-php",
+        "cryptocurrency",
+        "payment-gateway",
+        "php-library",
+        "api-wrapper",
+        "blockchain",
+        "financial-technology"
+    ],
+    "homepage": "https://github.com/revelonnet/revelon-php",
+    "version": "1.0.0"
+}
